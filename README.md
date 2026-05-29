@@ -33,7 +33,7 @@ Switch to drawing mode from design mode
 2. Select the projected view to generate orthographic projections
 
 ## INPUT
-<img width="1168" height="822" alt="image" src="https://github.com/user-attachments/assets/5db02dda-e333-48e9-976c-4332f61a836f" />
+![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
 
 ## OUTPUT
